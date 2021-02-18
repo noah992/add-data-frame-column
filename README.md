@@ -1,8 +1,8 @@
 # add-data-frame-column
 
-Repo for this article.
-* code
-* dataset
+Repo for this [article](https://noah992.medium.com/for-those-who-gets-stacked-to-add-a-column-on-dataframe-data-science-e333b3488af).
+* [code](https://github.com/noah992/add-data-frame-column/blob/main/code/add-data-frame-column.ipynb)
+* [dataset](https://github.com/noah992/add-data-frame-column/blob/main/data/practice.csv)
 
 ## Summary
 
@@ -14,7 +14,7 @@ Repo for this article.
 
 If you are confused of adding columns in `DataFrame`, always think to **Make a list**
 
-This list needs to have same length as the `DataFrame`, and if you want to refer to an existed column for a new colullmn, be noticed what functions work with `pd.Series`
+This list needs to have same length as the `DataFrame`, and if you want to refer to an existed column for a new column, be noticed what functions work with `pd.Series`
 
 ## Dataset
 
