@@ -18,7 +18,12 @@ This list needs to have same length as the `DataFrame`, and if you want to refer
 
 ## Dataset
 
-I created dataset for this practice. This data set has 2 columns. One has numbers between 0 and 99, and the other has alphabets.
+Data dictionary
+
+|column|type|description|
+|-|-|-|
+|num|int|numbers between 0 and 99|
+|let|str|alphabets|
 
 ## Instruction
 
